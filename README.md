@@ -1,6 +1,4 @@
-# Frontend Mentor - NFT Preview Card Component solution
-
-This is a solution to the [NFT Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# NFT Preview Card Component
 
 ## Table of contents
 
@@ -9,7 +7,6 @@ This is a solution to the [NFT Preview Card Component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 
@@ -32,10 +29,6 @@ This is a solution to the [NFT Preview Card Component challenge on Frontend Ment
 - HTML5 Markup
 - CSS3
 - Flexbox
-
-### What I learned
-
-I had a review of Flexbox. I also learned about CSS positionig, like relative and absolute which helped with the view icon hover effect.
 
 ## Author
 
